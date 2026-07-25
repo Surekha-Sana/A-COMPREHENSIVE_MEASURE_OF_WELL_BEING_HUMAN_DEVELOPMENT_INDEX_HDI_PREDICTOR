@@ -7,7 +7,7 @@
 - **Project Title**: Human Development Index (HDI) Predictor & Policy Simulation System
 - **Academic Stream**: Machine Learning & AI Capstone Program
 - **Software Version**: v1.0.0 (Serialized & Deployed)
-- **GitHub Repository**: [https://github.com/Jaswanth258/A-COMPREHENSIVE-MEASURE-OF-WELL-BEING-HUMAN-DEVELOPMENT-INDEX-HDI-PREDICTOR](https://github.com/Jaswanth258/A-COMPREHENSIVE-MEASURE-OF-WELL-BEING-HUMAN-DEVELOPMENT-INDEX-HDI-PREDICTOR)
+- **GitHub Repository**: [https://github.com/Surekha-Sana/A-COMPREHENSIVE_MEASURE_OF_WELL_BEING_HUMAN_DEVELOPMENT_INDEX_HDI_PREDICTOR](https://github.com/Surekha-Sana/A-COMPREHENSIVE_MEASURE_OF_WELL_BEING_HUMAN_DEVELOPMENT_INDEX_HDI_PREDICTOR)
 - **Video Demonstration**: [Google Drive Demo Link](https://drive.google.com/file/d/1SGMQ0ISFxUGTr5hJNGJdoDYp_xgMIbGE/view?usp=drivesdk)
 
 ### Project Team Members & Roles
