@@ -139,3 +139,4 @@ Open your browser and navigate to: **[http://127.0.0.1:5000](http://127.0.0.1:50
 | [Beldhari Swapna](https://github.com/BeldhariSwapna) | Lead Data Scientist & ML Engineer |
 | [Bandi Sai Kiran](https://github.com/bandisaikiran) | Frontend Engineer & UI Designer |
 | [sudhulamahesh](https://github.com/sudhulamahesh) | Contributor |
+| [KamathamBhavitha](https://github.com/KamathamBhavitha) | Contributor |
