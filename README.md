@@ -128,3 +128,14 @@ Open your browser and navigate to: **[http://127.0.0.1:5000](http://127.0.0.1:50
 | **Very High Development** | LE=82, EYS=16, MYS=13, GNI=$55K | 1.0 | 🟢 Very High |
 | **Developing Economy** | LE=62, EYS=10, MYS=6, GNI=$8K | ~0.70 | 🔵 High |
 | **Low Development** | LE=52, EYS=5, MYS=3, GNI=$1.5K | 0.5408 | 🔴 Low |
+
+---
+
+## 👥 Contributors
+
+| Contributor | Role |
+|-------------|------|
+| [Surekha-Sana](https://github.com/Surekha-Sana) | Project Lead |
+| [Beldhari Swapna](https://github.com/BeldhariSwapna) | Lead Data Scientist & ML Engineer |
+| [Bandi Sai Kiran](https://github.com/bandisaikiran) | Frontend Engineer & UI Designer |
+| [sudhulamahesh](https://github.com/sudhulamahesh) | Contributor |
