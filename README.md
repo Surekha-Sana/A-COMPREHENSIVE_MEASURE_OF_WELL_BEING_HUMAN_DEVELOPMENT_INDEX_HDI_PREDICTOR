@@ -7,7 +7,7 @@ An end-to-end Machine Learning web application that predicts Human Development I
 ## 🎥 Live Video Demonstration
 
 Watch our complete team presentation, user interface walkthrough, and scenario simulations:
-👉 **[Watch Project Video Demonstration (Google Drive)](https://drive.google.com/file/d/1SGMQ0ISFxUGTr5hJNGJdoDYp_xgMIbGE/view?usp=drivesdk)**
+👉 **[Watch Project Video Demonstration (Google Drive)](https://drive.google.com/file/d/1eLwG8e2VI6ZnMTvKjIiPutdoefRLXV1g/view?usp=drivesdk)**
 
 ---
 
@@ -95,7 +95,7 @@ HDI/
 
 ### 1. Clone & Setup
 ```bash
-git clone https://github.com/Jaswanth258/A-COMPREHENSIVE-MEASURE-OF-WELL-BEING-HUMAN-DEVELOPMENT-INDEX-HDI-PREDICTOR.git
+git clone https://github.com/Surekha-Sana/A-COMPREHENSIVE_MEASURE_OF_WELL_BEING_HUMAN_DEVELOPMENT_INDEX_HDI_PREDICTOR.git
 cd "HDI/5.Project Development Phase/code"
 python -m venv venv
 .\venv\Scripts\Activate          # Windows PowerShell
